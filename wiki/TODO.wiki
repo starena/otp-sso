@@ -1,13 +1,18 @@
 #summary TODO List for Project
 
-= Introduction =
+== TODO ==
+
+= Current Features =
 
 Add your content here.
 
 
-= Details =
+= Currently Working On =
 
 Add your content here.  Format your content with:
   * Text in *bold* or _italic_
   * Headings, paragraphs, and lists
   * Automatic links to other wiki pages
+
+
+= Future / Considered / Need help with =
