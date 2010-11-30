@@ -1,4 +1,4 @@
-#summary TODO List for Project
+#summary TODO and Features List for Project
 #labels Featured
 
 = TODO and Features =
