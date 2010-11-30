@@ -1,18 +1,26 @@
 #summary TODO List for Project
 
-== TODO ==
+= TODO and Features =
 
-= Current Features =
+== Current Features ==
 
-Add your content here.
-
-
-= Currently Working On =
-
-Add your content here.  Format your content with:
-  * Text in *bold* or _italic_
-  * Headings, paragraphs, and lists
-  * Automatic links to other wiki pages
+*Authenticates using locally stored Yubikey AES secrets
+*Authenticates using securly generated Scratch Codes
+*Authenticates using TOTP codes generated from RFC and using Google Authenticator
+*Provides a http basic auth interface
+*Can be integrated with FreeRadius using PAM
 
 
-= Future / Considered / Need help with =
+== Currently Working On ==
+
+*A web interface to reset and control features
+*A SAML interface for Google Apps authentication
+*Optional prefix's for yubikey auth
+
+== Partly Implemented==
+
+*FreeRadius integration - DB's have been merged, and config files provided for static passwords with fall though the pam, but need to find a nicer way of handling it.
+
+== Future / Considered / Need help with ==
+
+*LDAP Intergration... this is something that would be cool to include, but I am happy with just radius at the moment.
