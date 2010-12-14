@@ -11,11 +11,12 @@
  * Provides a http basic auth interface
  * Can be integrated with FreeRadius using PAM
 
+ * A SAML interface for Google Apps authentication
+
 
 == Currently Working On ==
 
  * A web interface to reset and control features
- * A SAML interface for Google Apps authentication
  * Optional prefix's for yubikey auth
 
 == Partly Implemented==
